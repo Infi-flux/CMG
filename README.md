@@ -1,13 +1,31 @@
-# CMG
-Research
+# CMG  
+Research Repository for "Transformers Beyond Order: A Chaos-Markov-Gaussian Framework for Short-Term Sentiment Forecasting of Financial OHLC Data"
 
-# Code Coming Soon
+---
 
-Thank you for your interest in our work!
+🚧 **Status: Code Release in Progress**
 
-This repository is currently a placeholder for the code associated with our paper, which is under submission.  
-The full source code, including instructions and datasets (if applicable), will be released upon the paper's upload to [arXiv](https://arxiv.org/) & acceptance.
+Thank you for your interest in our research!
 
-📌 Please check back soon or watch the repository for updates.
+We are in the process of uploading the code, modules, and instructions used in our study.  
+As this is being done gradually, some components may still be missing or incomplete.
 
-If you have any questions, feel free to reach out to the authors via email.
+### 📌 What's Coming:
+- 📁 Core model architecture and training scripts  
+- 📊 Evaluation pipeline  
+- 🧪 Experiment configuration  
+
+---
+
+### ❗ OHLC Data Disclaimer
+This project uses OHLC (Open, High, Low, Close) financial time series data, which is often subject to licensing restrictions.  
+We **cannot upload or redistribute** the raw OHLC data.---
+
+🔔 **Stay Tuned:**  
+Please check back regularly or click “Watch” to be notified of updates.
+
+If you have any questions or need early access for review/research purposes, feel free to contact us directly.
+
+Thank you for your patience!
+
+— Infi-flux
